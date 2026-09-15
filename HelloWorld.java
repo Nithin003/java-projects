@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("GitSCM Pooling");
         System.out.println("GitSCM Pooling - 02"); 
         System.out.println("New job created");
+        System.out.println("New job created 02");
     }
 }
